@@ -1,4 +1,15 @@
-## this R Script tells the data mode in R
+# datamode.R:
+# -----------
+# this R Script tells the data mode in R
+#
+############################################################
+# license:
+# --------
+# Copyright (c) 2014 JackyCode
+# Distributed under the [MIT License][MIT].
+# [MIT]: http://www.opensource.org/licenses/mit-license.php
+#
+############################################################
 
 # View the objects' mode and class
 mode(sum)

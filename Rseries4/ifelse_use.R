@@ -1,4 +1,15 @@
-## this R Script tells how to use `ifelse` function
+# ifelse_use.R:
+# -------------
+# this R Script tells how to use `ifelse` function
+#
+############################################################
+# license:
+# --------
+# Copyright (c) 2014 JackyCode
+# Distributed under the [MIT License][MIT].
+# [MIT]: http://www.opensource.org/licenses/mit-license.php
+#
+############################################################
 
 # generate a score data
 scoreList <- list()

@@ -1,4 +1,14 @@
-## This R Script tells how to use the `Control Sentences` in R
+# controlSentence_use.R:
+# ----------------------
+# This R Script tells how to use the `Control Sentences` in R
+############################################################
+# license:
+# --------
+# Copyright (c) 2014 JackyCode
+# Distributed under the [MIT License][MIT].
+# [MIT]: http://www.opensource.org/licenses/mit-license.php
+#
+############################################################
 
 # for loop
 x <- c()

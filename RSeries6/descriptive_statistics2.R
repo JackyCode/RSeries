@@ -1,8 +1,19 @@
+###############################################################
+## descriptive_statistics2.R:
+## --------------------------
 ## This R Script tells how to do descriptvie statistics in R (2)
-################################################################
 ##
 ## The data used here is from the builtin dataset `mtcars`
 ################################################################
+##
+############################################################
+# license:
+# --------
+# Copyright (c) 2014 JackyCode
+# Distributed under the [MIT License][MIT].
+# [MIT]: http://www.opensource.org/licenses/mit-license.php
+#
+############################################################
 
 # table
 # one-dimension

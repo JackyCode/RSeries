@@ -1,6 +1,15 @@
-## this RScript tells data manipulation in R
-##
-#################################################
+# data_manipulation.R:
+# --------------------
+# this RScript tells data manipulation in R
+#
+############################################################
+# license:
+# --------
+# Copyright (c) 2014 JackyCode
+# Distributed under the [MIT License][MIT].
+# [MIT]: http://www.opensource.org/licenses/mit-license.php
+#
+############################################################
 
 ## begin
 

@@ -1,4 +1,15 @@
-## This code display how to use the recursive function in R
+# Recall_use.R:
+# -------------
+# This R Script tells how to use the recursive function in R
+#
+############################################################
+# license:
+# --------
+# Copyright (c) 2014 JackyCode
+# Distributed under the [MIT License][MIT].
+# [MIT]: http://www.opensource.org/licenses/mit-license.php
+#
+############################################################
 
 #### Recursive 1:
 plusFun1 <- function (x) {

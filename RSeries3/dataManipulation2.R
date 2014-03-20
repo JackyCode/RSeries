@@ -1,5 +1,15 @@
-## this R Script tells some difficult data manipulation in R
-#############################################################
+# dataManipulation2.R:
+# --------------------
+# this R Script tells some difficult data manipulation in R
+#
+############################################################
+# license:
+# --------
+# Copyright (c) 2014 JackyCode
+# Distributed under the [MIT License][MIT].
+# [MIT]: http://www.opensource.org/licenses/mit-license.php
+#
+############################################################
 
 # 1. use `sample` function to generate 10 different integers between -5 and 5
 x <- sample(-5:5, 10)

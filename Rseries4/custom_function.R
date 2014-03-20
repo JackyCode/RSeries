@@ -1,4 +1,15 @@
-## this R Script tells how to built a steady function
+# custom_function.R:
+# ------------------
+# this R Script tells how to built a steady function
+#
+############################################################
+# license:
+# --------
+# Copyright (c) 2014 JackyCode
+# Distributed under the [MIT License][MIT].
+# [MIT]: http://www.opensource.org/licenses/mit-license.php
+#
+############################################################
 
 # the initial function
 Summary.MeanAndSd <- function (x) {

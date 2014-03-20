@@ -1,5 +1,15 @@
+# loadData.R:
+# -----------
 ## this R Script tells how to load datas to R
-#####################################################
+#
+############################################################
+# license:
+# --------
+# Copyright (c) 2014 JackyCode
+# Distributed under the [MIT License][MIT].
+# [MIT]: http://www.opensource.org/licenses/mit-license.php
+#
+############################################################
 
 ## use `scan` function
 x <- scan()
